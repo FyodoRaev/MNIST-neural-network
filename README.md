@@ -1,5 +1,5 @@
 # MNIST-neural-network
-My first neural network. I created it cause i read a book , got a lot of theory and was not able to implement the easiest examples. So any hard for understanding line of code I followed with comments. 
+My first neural network.This is a neural network which predicts integer that stays in photo , but when I was making it I have not used any libraries except NumPy and Pandas.So I can call it Mnist-Neural-Network from scratch. I created it cause i read a book , got a lot of theory and was not able to implement the easiest examples. So any hard for understanding line of code I followed with comments. 
 
 Steps:
 # ↓↓↓ why do we need to transpose matrices?(e.g. Aᵀ) ↓↓↓
